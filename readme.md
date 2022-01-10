@@ -1,5 +1,5 @@
-<!-- #devops training
+#devops training
 
 Rohan Yadav
 yadav.rohan@tftus.com
-phone number - 9999420005 -->
+phone number - 9999420005
